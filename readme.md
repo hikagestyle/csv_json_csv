@@ -51,6 +51,13 @@ jsonファイル（data.json）を test_to_csv.py で dummy-data.csv に書き�
 python3 test_to_json.py && python3 test_.py && python3 test_to_csv.py
 
 
+## 生成されるファイル
+
+- data.json
+- dummy-data.csv
+- output.json
+
+
 ## あとがき
 
 普通にcsvファイルを編集するはずなので、どの場面で役に立つのか謎。
